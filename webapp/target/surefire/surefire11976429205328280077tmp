@@ -1,0 +1,25 @@
+#surefire
+#Sat Nov 19 20:03:13 EST 2022
+childDelegation=false
+classPathUrl.0=/Users/aliyu/Desktop/LinuxAws/DevOps/GitProject/DevopsBasics/webapp/target/test-classes
+classPathUrl.1=/Users/aliyu/Desktop/LinuxAws/DevOps/GitProject/DevopsBasics/webapp/target/classes
+classPathUrl.2=/Users/aliyu/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar
+classPathUrl.3=/Users/aliyu/.m2/repository/javax/servlet/jsp/jsp-api/2.2/jsp-api-2.2.jar
+enableAssertions=true
+excludes0=**/*$*
+failIfNoTests=false
+forkMode=once
+includes0=**/Test*.java
+includes1=**/*Test.java
+includes2=**/*TestCase.java
+isTrimStackTrace=true
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+reportsDirectory=/Users/aliyu/Desktop/LinuxAws/DevOps/GitProject/DevopsBasics/webapp/target/surefire-reports
+runOrder=filesystem
+runStatisticsFile=/Users/aliyu/Desktop/LinuxAws/DevOps/GitProject/DevopsBasics/webapp/.surefire-64D3A11AFF6CB5ED26E604427C0825F0C3B1B349
+surefireClassPathUrl.0=/Users/aliyu/.m2/repository/org/apache/maven/surefire/surefire-junit3/2.11/surefire-junit3-2.11.jar
+surefireClassPathUrl.1=/Users/aliyu/.m2/repository/org/apache/maven/surefire/surefire-api/2.11/surefire-api-2.11.jar
+testClassesDirectory=/Users/aliyu/Desktop/LinuxAws/DevOps/GitProject/DevopsBasics/webapp/target/test-classes
+testSuiteDefinitionTestSourceDirectory=/Users/aliyu/Desktop/LinuxAws/DevOps/GitProject/DevopsBasics/webapp/src/test/java
+useManifestOnlyJar=true
+useSystemClassLoader=true
